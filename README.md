@@ -24,12 +24,14 @@ Welcome to my personal portfolio! This is a responsive, single-page website buil
 
 ## 📁 Project Structure
 
+```text
 portfolio/
 ├── assets/ # Images and icons
 ├── index.html # Main HTML content
 ├── style.css # Custom styles
 ├── script.js # JavaScript functionality
 └── README.md # Project documentation
+```
 
 ## 🖼️ Preview
 
