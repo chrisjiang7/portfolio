@@ -1,8 +1,6 @@
-# 💼 Chris Jiang's Portfolio Website
+# 💼 My Portfolio Website
 
 Welcome to my personal portfolio! This is a responsive, single-page website built with **HTML**, **CSS**, and **JavaScript** to showcase my projects, skills, and professional background. It serves as my online resume and a central hub for all things related to my work as a software engineer.
-
-<img width="1903" height="911" alt="{8EF855D9-9418-4B4F-89B7-A7F7286CDD0C}" src="https://github.com/user-attachments/assets/1a3a59ff-0a9c-4422-9d56-d89e45a293f5" />
 
 ## 🚀 Live Demo
 
@@ -27,10 +25,11 @@ Welcome to my personal portfolio! This is a responsive, single-page website buil
 ```text
 portfolio/
 ├── assets/ # Images and icons
-├── index.html # Main HTML content
-├── style.css # Custom styles
+├── README.md # Project documentation
+├── index.html # Frontend
+├── mediaqueries.css # Multi-device responsivness
 ├── script.js # JavaScript functionality
-└── README.md # Project documentation
+└── style.css # Styling
 ```
 
 ## 🖼️ Preview
